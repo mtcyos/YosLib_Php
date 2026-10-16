@@ -1,5 +1,8 @@
 <?php
 # -*- coding: utf-8 -*-
+
+// Version : 2026.10
+
 $hd = __DIR__;
 require_once $hd . "/Yos_Utl.php";      // Utilidades
 require_once $hd . "/Yos_SesIni.php";   // Inicio de la Sesion y defincion de Variables del Sistema
